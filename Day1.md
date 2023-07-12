@@ -12,9 +12,10 @@
 #### Discusses The Various Operators In JavaScript, Arithmetic Operators And Logical Operations
 
 ## Task requirements
-###[First Task ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication) : Compound Assignment With Augmented Multiplication
+### First Task: Compound Assignment With Augmented Multiplication .
 
-Convert the assignments for a, b, and c to use the *= operator.
+Convert the assignments for a, b, and c to use the *= operator. [click here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication) 
+
 ### The Solution :
 ```js
 let a = 5;
@@ -26,22 +27,18 @@ a *= 5;
 b *= 3;
 c *= 10;
 ```
-###[Second Task ]([https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator)): Concatenating Strings with the Plus Equals Operator
+### Second Task: Concatenating Strings with the Plus Equals Operator
 
-Build myStr over several lines by concatenating these two strings: This is the first sentence. and This is the second sentence. using the += operator. Use the += operator similar to how it is shown in the example and be sure to include a space between the two strings. Start by assigning the first string to myStr, then add on the second string
+Build myStr over several lines by concatenating these two strings: This is the first sentence. and This is the second sentence. using the += operator. Use the += operator similar to how it is shown in the example and be sure to include a space between the two strings. Start by assigning the first string to myStr, then add on the second string . [click here]([https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator)) 
 
 ### The Solution :
 ```js
 let myStr = "This is the first sentence. ";
 myStr += "This is the second sentence.";
 ```
-###[Third Task ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string): Use Bracket Notation to Find the Nth-to-Last Character in a String
+### Third Task: Use Bracket Notation to Find the Nth-to-Last Character in a String
 
-Use bracket notation to find the second-to-last character in the lastName string.
-
-Hint: Try looking at the example above if you get stuck.
-
-
+Use bracket notation to find the second-to-last character in the lastName string. [click here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string)
 
 ### The Solution :
 ```js
