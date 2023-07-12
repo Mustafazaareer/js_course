@@ -1,6 +1,8 @@
 
 # Learning sprint (1), week (1), day (1) 
-
+## Sections that have been studied on this day
+### Section 1 : Introduction 
+### In this section we discuse what is java script
 ## Task requirements
 
 Create a web page that fetches data from the [Rick and Morty API](https://rickandmortyapi.com/documentation/#get-all-characters), and displays a list of characters.
