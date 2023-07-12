@@ -1,5 +1,5 @@
 
-# Learning sprint (1), week (1), day (3) 
+# Learning sprint (1), week (1), day (4) 
 
 ## Sections that have been studied on this day
 ### Section 1: Events & Handlers
