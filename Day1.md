@@ -9,7 +9,12 @@
 ### Section 3: Values & Data Types
 #### In This Section I Got To Know Data Types In Js and How To Declear Variables And Assigned It To Values .
 ### Section 4: Operators 
-#### Discusses The Various Operators In JavaScript, Arithmetic Operators And Logical Operations## Task requirements
+#### Discusses The Various Operators In JavaScript, Arithmetic Operators And Logical Operations
+
+## Task requirements
+
+### First Task : Compound Assignment With Augmented Multiplication
+
 
 
 Create a web page that fetches data from the [Rick and Morty API](https://rickandmortyapi.com/documentation/#get-all-characters), and displays a list of characters.
