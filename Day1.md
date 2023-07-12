@@ -17,7 +17,7 @@
 Convert the assignments for a, b, and c to use the *= operator [First Task ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication).
 
 ## The Solution :
-```
+```js
 let a = 5;
 let b = 12;
 let c = 4.6;
