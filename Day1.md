@@ -1,9 +1,16 @@
 
 # Learning sprint (1), week (1), day (1) 
 ## Sections that have been studied on this day
-### Section 1 : Introduction 
-### In this section we discuse what is java script
-## Task requirements
+### Section 1: Introduction 
+### I leanred About Some Basic Conceptes In Java Script Which Is :
+#### Here We Discussed Topics Such As: What is JavaScript,Where to Write JavaScript .
+### Section 2: DOM
+#### Here I'm Leaned About DOM And How To Use It To Deal And Maintain With Web Pages .
+### Section 3: Values & Data Types
+#### In This Section I Got To Know Data Types In Js and How To Declear Variables And Assigned It To Values .
+### Section 4: Operators 
+#### Discusses The Various Operators In JavaScript, Arithmetic Operators And Logical Operations## Task requirements
+
 
 Create a web page that fetches data from the [Rick and Morty API](https://rickandmortyapi.com/documentation/#get-all-characters), and displays a list of characters.
 
