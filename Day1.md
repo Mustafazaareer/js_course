@@ -14,6 +14,8 @@
 ## Task requirements
 ### First Task: Compound Assignment With Augmented Multiplication .
 
+## Requierments 
+
 Convert the assignments for a, b, and c to use the *= operator. [click here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication) 
 
 ### The Solution :
@@ -29,6 +31,8 @@ c *= 10;
 ```
 ### Second Task: Concatenating Strings with the Plus Equals Operator
 
+## Requierments 
+
 Build myStr over several lines by concatenating these two strings: This is the first sentence. and This is the second sentence. using the += operator. Use the += operator similar to how it is shown in the example and be sure to include a space between the two strings. Start by assigning the first string to myStr, then add on the second string . [click here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator) 
 
 
@@ -39,6 +43,8 @@ let myStr = "This is the first sentence. ";
 myStr += "This is the second sentence.";
 ```
 ### Third Task: Use Bracket Notation to Find the Nth-to-Last Character in a String
+
+## Requierments 
 
 Use bracket notation to find the second-to-last character in the lastName string. [click here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string)
 
