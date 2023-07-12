@@ -2,15 +2,15 @@
 # Learning sprint (1), week (1), day (4) 
 
 ## Sections that have been studied on this day
-### Section 1: Events & Handlers
+### Section 1 : Events & Handlers
 ### Learn How To Add Event Listners/Handler To The Events That Happend To Any Element In The Web Page
-### 
-### Section 2: Conditionals
+
+### Section 2 : Conditionals
 #### Leanred How To Implement Conditionals In JS And Learned What Is The Logical Operations Can Be Used Inside Conditionals Operations .
 
-### Map & filter
+### Section 3 : Map & filter
 #### Learned How To Implement map,filter and Spread Operations on Any Array For Specific Reason 
-### Doggos Quiz Game
+### Section 4 : Doggos Quiz Game
 #### Get Know Of The Doggos Quiz And What We Need To Match The Requierments
 `
 ### First Task: Use Multiple Conditional (Ternary) Operators
