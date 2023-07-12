@@ -32,3 +32,16 @@ Create a web page that fetches data from the [Rick and Morty API](https://rickan
 ```
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator
+
+## Day2
+### I leanred About Some Basic Advance Topics  In Java Script Which Is:
+
+#### 1-Expressions 
+##### We Dsicussed What Is Expressions ,And How To Remember Values Of Expressions By Declaring Varibales And Assign The Values To Them ,Discusses The Difference Between The const And let Keywords .
+#### 2-Arrays
+##### Here I'm Leaned How Wo Declare Arrays And Using Some Methodes Like :length,slice,include,sort,push,pop And How every Methode Work .
+#### 3-Objects
+#####  Here I'm Leaned How Wo Declare Objects And How To Access Them And Add Properties And How To Access These Properties.
+
+## Day3
+### In This Day We Reveiw All What We Have Learned So Far And Practice It By Some Exercises For These Topics
