@@ -14,13 +14,13 @@
 ### Section 4 : Modules
 #### Discusses The Used Of Modules In JavaScript Code Of Splitting Large Codebases Into Multiple Smaller Files Using Modules.
 
-### First Task: Use Multiple Conditional (Ternary) Operators
+### Create A Web Page That Fetches Data From The [Rick and Morty API](https://rickandmortyapi.com/documentation/#get-all-characters), And Displays A List Of Characters.
 
 ### Requirements:
 
-- Use the Fetch API (in async/await format) to retrieve the character data from the following endpoint: `https://rickandmortyapi.com/api/character`.
-- Handle any potential errors that may occur during the API request and display an error message on the webpage if an error occurs.
-- Only display the list of characters whose status is "alive" (filter out other status types). *Hint: use the query parameter `status=alive`.*
+- Use The Fetch API (In Async/Await Format) To Retrieve The Character Data From The Following Endpoint: `https://rickandmortyapi.com/api/character`.
+- Handle Any Potential Errors That May Occur During The API Request And Display An Error Message On The Webpage If An Error Occurs.
+- Only Display The List Of Characters Whose Status Is "Alive" (filter out other status types). *Hint: use the query parameter `status=alive`.*
 - If the number of characters returned is greater than 50, only display the first 50 characters returned.
 - Once the character data is retrieved successfully, iterate through the list of characters and create `<li>` elements for each alive character and display the character's: **name**, **image**, **location**, **species**, and **gender**.
 - Display the resulting list of alive character names on the webpage.
