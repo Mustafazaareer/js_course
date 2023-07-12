@@ -75,6 +75,8 @@ lookUpProfile("Akira", "likes");
 ```
 ### Second Task: Copy Array Items Using slice()
 
+## Requierments 
+
 We have defined a function, forecast, that takes an array as an argument. Modify the function using slice() to extract information from the argument array and return a new array that contains the string elements warm and sunny. [click here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice) 
 
 
@@ -91,6 +93,8 @@ function forecast(arr) {
 console.log(forecast(['cold', 'rainy', 'warm', 'sunny', 'cool', 'thunderstorms']));
 ```
 ### Third Task: Combine Arrays with the Spread Operator 
+
+## Requierments 
 
 We have defined a function spreadOut that returns the variable sentence. Modify the function using the spread operator so that it returns the array ['learning', 'to', 'code', 'is', 'fun']. [click here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator)
 
