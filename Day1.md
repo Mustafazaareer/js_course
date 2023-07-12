@@ -16,6 +16,11 @@
 
 Convert the assignments for a, b, and c to use the *= operator [First Task ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication).
 
+## The Solution :
+```
+
+```
+
 
 Create a web page that fetches data from the [Rick and Morty API](https://rickandmortyapi.com/documentation/#get-all-characters), and displays a list of characters.
 
