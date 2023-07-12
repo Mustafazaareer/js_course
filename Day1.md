@@ -26,20 +26,30 @@ a *= 5;
 b *= 3;
 c *= 10;
 ```
-###[Second Task ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication): Concatenating Strings with the Plus Equals Operator
+###[Second Task ]([https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator)): Concatenating Strings with the Plus Equals Operator
 
 Build myStr over several lines by concatenating these two strings: This is the first sentence. and This is the second sentence. using the += operator. Use the += operator similar to how it is shown in the example and be sure to include a space between the two strings. Start by assigning the first string to myStr, then add on the second string
 
 ### The Solution :
 ```js
-let a = 5;
-let b = 12;
-let c = 4.6;
+let myStr = "This is the first sentence. ";
+myStr += "This is the second sentence.";
+```
+###[Third Task ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string): Use Bracket Notation to Find the Nth-to-Last Character in a String
+
+Use bracket notation to find the second-to-last character in the lastName string.
+
+Hint: Try looking at the example above if you get stuck.
+
+
+
+### The Solution :
+```js
+// Setup
+const lastName = "Lovelace";
 
 // Only change code below this line
-a *= 5;
-b *= 3;
-c *= 10;
+const secondToLastLetterOfLastName = lastName[lastName.length -2]; // Change this line
 ```
 
 Create a web page that fetches data from the [Rick and Morty API](https://rickandmortyapi.com/documentation/#get-all-characters), and displays a list of characters.
