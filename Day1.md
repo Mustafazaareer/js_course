@@ -1,7 +1,7 @@
 
 # Learning sprint (1), week (1), day (1) 
 ## Sections that have been studied on this day
-### - Section 1: Introduction 
+### Section 1: Introduction 
 ### I leanred About Some Basic Conceptes In Java Script Which Is :
 #### Here We Discussed Topics Such As: What is JavaScript,Where to Write JavaScript .
 ### Section 2: DOM
