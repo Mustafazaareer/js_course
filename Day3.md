@@ -28,6 +28,8 @@ unction timesFive (num){
 ```
 ### Second Task: Global Scope and Functions
 
+## Requierments 
+
 Using let or const, declare a global variable named myGlobal outside of any function. Initialize it with a value of 10.
 Inside function fun1, assign 5 to oopsGlobal without using the var, let or const keywords. [click here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice) 
 
@@ -57,6 +59,8 @@ function fun2() {
 }
 ```
 ### Third Task: Local Scope and Functions
+
+## Requierments 
 
 The editor has two console.logs to help you see what is happening. Check the console as you code to see how it changes. Declare a local variable myVar inside myLocalScope and run the tests.
 
