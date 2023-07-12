@@ -5,16 +5,16 @@
 ### I leanred About Some Basic Conceptes In Java Script Which Is :
 #### Here We Discussed Topics Such As: What is JavaScript,Where to Write JavaScript .
 ### Section 2: DOM
-#### Here I'm Leaned About DOM And How To Use It To Deal And Maintain With Web Pages .
+#### Here I'm Leaned About DOM And How To Use It To Deal And Mainten With Web Pages .
 ### Section 3: Values & Data Types
 #### In This Section I Got To Know Data Types In Js and How To Declear Variables And Assigned It To Values .
 ### Section 4: Operators 
 #### Discusses The Various Operators In JavaScript, Arithmetic Operators And Logical Operations
 
 ## Task requirements
-
 ### First Task : Compound Assignment With Augmented Multiplication
 
+Convert the assignments for a, b, and c to use the *= operator [First Task ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication).
 
 
 Create a web page that fetches data from the [Rick and Morty API](https://rickandmortyapi.com/documentation/#get-all-characters), and displays a list of characters.
