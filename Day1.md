@@ -12,11 +12,10 @@
 #### Discusses The Various Operators In JavaScript, Arithmetic Operators And Logical Operations
 
 ## Task requirements
-### First Task : Compound Assignment With Augmented Multiplication
+###[First Task ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication) : Compound Assignment With Augmented Multiplication
 
-Convert the assignments for a, b, and c to use the *= operator [First Task ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication).
-
-## The Solution :
+Convert the assignments for a, b, and c to use the *= operator.
+### The Solution :
 ```js
 let a = 5;
 let b = 12;
@@ -27,7 +26,21 @@ a *= 5;
 b *= 3;
 c *= 10;
 ```
+###[Second Task ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication): Concatenating Strings with the Plus Equals Operator
 
+Build myStr over several lines by concatenating these two strings: This is the first sentence. and This is the second sentence. using the += operator. Use the += operator similar to how it is shown in the example and be sure to include a space between the two strings. Start by assigning the first string to myStr, then add on the second string
+
+### The Solution :
+```js
+let a = 5;
+let b = 12;
+let c = 4.6;
+
+// Only change code below this line
+a *= 5;
+b *= 3;
+c *= 10;
+```
 
 Create a web page that fetches data from the [Rick and Morty API](https://rickandmortyapi.com/documentation/#get-all-characters), and displays a list of characters.
 
