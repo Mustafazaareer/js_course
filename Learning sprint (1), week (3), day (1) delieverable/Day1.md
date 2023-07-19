@@ -1,5 +1,5 @@
 
-# Learning sprint (1), week (2), day (3) 
+# Learning sprint (1), week (3), day (1) 
 ## Sections that have been studied on this day
 ### Section 1: Async JavaScript
 #### In this chapter, the basic data types in this java script are identified, as well as how there are some conflicting things in these types as a result of the old versions of the language.
